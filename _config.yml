@@ -1,0 +1,30 @@
+
+title: CV | Hugo Hernández Valdez
+# url: 'http://localhost:4000'
+# baseurl: ''
+
+url: 'https://gouh.github.io'
+baseurl: '/material-resume'
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-2
+# style: styles-3
+# style: styles-4
+# style: styles-5
+# style: styles-6
+
+
+#Profile information
+name: Hugo Hernández Valdez
+tagline: Desarrollador de software
+pic: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+description: En esta página podrás ver mí información personal, así como mi experiencia, habilidades y gustos.
+#sidebar links
+email: hugohv10@gmail.com
+phone: "(+52) 44 32 59 48 79"
+linkedin: "HugoHV"
+facebook: "GouuH"
+
+# Tracker
+analytics: #UA-83979019-1
+#Update all the sections by editing the files inside _includes folder.
