@@ -16,7 +16,7 @@ style: styles-2
 
 #Profile information
 name: Hugo Hernández Valdez
-tagline: Desarrollador de software
+tagline: Ingeniero en Tecnologías de la Información y Comunicación
 pic: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 description: En esta página podrás ver mí información personal, así como mi experiencia, habilidades y gustos.
 #sidebar links
