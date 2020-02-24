@@ -4,7 +4,7 @@ title: CV | Hugo Hernández Valdez
 # baseurl: ''
 
 url: 'https://gouh.github.io'
-# baseurl: '/material-resume'
+# baseurl: '/material-resume' _commit de prueba
 baseurl: ''
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
