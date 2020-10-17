@@ -22,7 +22,7 @@ pic: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and prov
 description: En esta página podrás ver mí información personal, así como mi experiencia, habilidades y gustos.
 #sidebar links
 email: hugohv10@gmail.com
-phone: "(+52) 44 32 07 65 21"
+# phone: "(+52) 44 32 07 65 21"
 linkedin: "HugoHV"
 facebook: "hangouh"
 
